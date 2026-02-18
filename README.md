@@ -1,10 +1,10 @@
-#Chinese Auction System
+# Chinese Auction System
 
 A comprehensive Full-Stack web application designed to manage a Chinese Auction event. The system features a dynamic user interface, a robust backend API, and a dedicated testing suite to ensure reliability and performance.
 
 ---
 
-##Project Architecture
+## Project Architecture
 
 The project is architected into three main components to ensure separation of concerns and maintainability:
 
@@ -14,7 +14,7 @@ The project is architected into three main components to ensure separation of co
 
 ---
 
-##Technology Stack
+## Technology Stack
 
 | Layer | Technologies Used |
 | :--- | :--- |
@@ -25,7 +25,7 @@ The project is architected into three main components to ensure separation of co
 
 ---
 
-##Repository Links
+## Repository Links
 
 To explore the source code for each component, please visit the following repositories:
 
